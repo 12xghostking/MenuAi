@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/menuai/static/css/main.05c71a01.css",
+    "main.js": "/menuai/static/js/main.b88fc6a7.js",
+    "index.html": "/menuai/index.html",
+    "main.05c71a01.css.map": "/menuai/static/css/main.05c71a01.css.map",
+    "main.b88fc6a7.js.map": "/menuai/static/js/main.b88fc6a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05c71a01.css",
+    "static/js/main.b88fc6a7.js"
+  ]
+}
